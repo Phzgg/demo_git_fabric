@@ -5,3 +5,5 @@ Criarei um projeto no Power BI completo e integrarei
 Depois farei isso com Fabric
 
 E ainda replicaremos com Azure DevOps
+
+Vamo que vamo. Mudança feito pela web
