@@ -38,20 +38,6 @@
         },
         {
           "location": {
-            "x": 1104.7810270436516,
-            "y": 0
-          },
-          "nodeIndex": "data_final",
-          "nodeLineageTag": "6d1c5680-7d3c-480f-a4fc-541318c2588c",
-          "size": {
-            "height": 72,
-            "width": 234
-          },
-          "zIndex": 2,
-          "expandedHeight": 104
-        },
-        {
-          "location": {
             "x": 352.66530368961293,
             "y": 0
           },
