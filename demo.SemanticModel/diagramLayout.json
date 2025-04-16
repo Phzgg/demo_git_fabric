@@ -1,0 +1,92 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 372.0323008548533,
+            "y": 431.29216166730663
+          },
+          "nodeIndex": "calendario",
+          "nodeLineageTag": "45988672-ffbc-4ca5-97c1-0ea0397655c0",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 543.6208247465471,
+            "y": 167.49072174652329
+          },
+          "nodeIndex": "cotacoes",
+          "nodeLineageTag": "94636944-abbf-441d-a451-180821085c29",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 1104.7810270436516,
+            "y": 0
+          },
+          "nodeIndex": "data_final",
+          "nodeLineageTag": "6d1c5680-7d3c-480f-a4fc-541318c2588c",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 2,
+          "expandedHeight": 104
+        },
+        {
+          "location": {
+            "x": 352.66530368961293,
+            "y": 0
+          },
+          "nodeIndex": "moedas",
+          "nodeLineageTag": "26d00889-a3d0-42e2-ae35-4161263482b9",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 179.07082289507537,
+            "y": 169.4539107036326
+          },
+          "nodeIndex": "transacoes",
+          "nodeLineageTag": "cc361a54-898a-437d-a812-69baee35e737",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 176
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 63.287087723234038,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
